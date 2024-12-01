@@ -1,4 +1,4 @@
-Replication material for "[https://doi.org/10.1016/j.jeem.2024.103074 ](Raided by the storm: How three decades of thunderstorms shaped U.S. incomes and wages)" (Coronese et al., JEEM 2024)
+Replication material for [https://doi.org/10.1016/j.jeem.2024.103074](Raided by the storm: How three decades of thunderstorms shaped U.S. incomes and wages) (Coronese et al., JEEM 2024)
 
 This folder contains the replication codes for figures and tables contained both in the main paper and in the Supplementary Information. All codes are included. The raw data supporting the replication can be accessed at [10.5281/zenodo.14254071](here). To ensure proper functionality, the raw data should be placed in a folder named "data" to match the relative paths.
 
